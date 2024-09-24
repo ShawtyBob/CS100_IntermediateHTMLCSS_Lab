@@ -10,17 +10,19 @@ header,nav,article,div,footer{
     border: 1px gray solid; 
     padding: 10px; 
     text-align: center; 
-    background-color: rgb(245, 232, 114); 
+    background-color: rgb(250, 209, 97); 
 } 
 nav, div {
     float: left;
     width: 20%;
     height: 200px ;
+    background-color: rgba(243, 216, 97, 0.884);
 }
 article{
     float: left;
     width: 60%;
     height: 200px;
+    background-color: rgb(248, 227, 106);
 }
 footer{
     width: 100%;
