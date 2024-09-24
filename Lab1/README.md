@@ -72,12 +72,12 @@ body {
     - Add borders as gray color solid lines to separate each section.
     - Center the text in each section.
 ```css
-header,nav,article,div,footer{
-    border: 1px gray solid;
-    padding: 10px;
-    text-align: center;
-    background-color: rgb(245, 232, 114);
-}
+header,nav,article,div,footer{ 
+    border: 1px gray solid; 
+    padding: 10px; 
+    text-align: center; 
+    background-color: rgb(245, 232, 114); 
+} 
 ```
 
 ---
