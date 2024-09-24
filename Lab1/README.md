@@ -41,7 +41,10 @@ This file contains the structure we will style using CSS.
 - In the `<head>` section of `index.html`, link the CSS file:
 ```css
 ```
-
+* {
+    margin: 0;
+    padding: 0;
+}
 - Write a CSS rule in `layout.css` to perform the following:
    - Set all the margins and padding for all HTML elements to be zero to ensure consistent rendering across different browsers.
    - Use the CSS selector that can apply the style to all elements.
